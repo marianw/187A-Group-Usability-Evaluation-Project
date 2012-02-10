@@ -1,0 +1,272 @@
+/* all the pages */
+
+body
+{
+	font-family: 'Droid Sans', sans-serif;
+	margin-top: 50px;
+	background: url('../images/60degree_gray.png');
+}
+
+h1,h2,h3,h4,h5
+{
+	font-family: 'Droid Serif', serif;
+	font-weight: 400;
+}
+
+a:hover 
+{
+	text-decoration: none;
+}
+
+
+p
+{
+	font-family: 'Droid Sans', sans-serif;
+}
+
+.header
+{
+	border-radius: 8px;
+	background: #FAFAFA;
+	height: 75px;
+	box-shadow: 2px 2px 5px #888;
+	text-align: center;
+}
+
+.headertext
+{
+	position: relative;
+	top: 20px;
+}
+
+
+
+.index
+{
+	text-indent: 10px;
+	background: #FAFAFA ;
+	border-radius: 8px;
+	box-shadow: 2px 2px 5px #888;
+	margin-top: 20px;
+}
+
+.indextext
+{
+	position: relative;
+	padding: 10px;
+	text-indent: 10px;
+	top: 12px;
+}
+
+.nav
+{
+	position: relative;
+	margin-top: 20px;
+
+}
+
+.content
+{
+	background: #FAFAFA;
+	border-radius: 8px;
+	box-shadow: 2px 2px 5px #888;
+	padding: 20px;
+	margin-top: 20px;
+}
+
+.contenttext
+{
+	position: relative;
+	margin-top: 35px;
+	clear: both;
+}
+
+.back
+{
+	position:relative;
+	width: 31%;
+	text-align:left;
+	display:inline-block;
+}
+
+.next
+{
+	position:relative;
+	width: 37%;
+	text-align:right;
+
+	display: inline-block;
+}
+
+.top
+{
+	position:relative;
+	text-align:center;
+	width: 31%;
+	left: 2.5%;
+	display:inline-block;
+}
+/* home page */
+
+#quote
+{
+	text-align:right;
+	clear: both;
+}
+
+#mainarea
+{
+	position: relative;
+	margin-top: 40px;
+	margin-left: 5px;
+	font-family: 'Droid Sans', sans-serif;
+	clear: both;
+}
+
+#uselist
+{
+	position: relative;
+	margin-top: 25px;
+	left: 28%;
+}
+
+#logo
+{
+	position: relative;
+	text-align:center;
+
+}
+
+/* heuristics pages */
+
+.screenshot
+{
+	position: relative;
+	width: 250px;
+	text-align:center;
+}
+
+.thumb
+{
+	position: relative;
+	width: 200px;
+	padding: 5px;
+	text-align:center;
+	border: 1px solid #ddd;
+	border-radius:6px;
+}
+
+.thumb2
+{
+	position: relative;
+	margin-top: 20px;
+	width: 200px;
+	padding: 5px;
+	text-align:center;
+	border: 1px solid #ddd;
+	border-radius:6px;
+}
+
+.thumb3
+{
+	position: relative;
+	margin-top: 20px;
+	width: 200px;
+	padding: 5px;
+	text-align:center;
+	border: 1px solid #ddd;
+	border-radius:6px;
+}
+
+.writing
+{
+	position: relative;
+	margin-left: 25px;
+	margin-top: -552px;
+}
+
+.writing1
+{
+	position: relative;
+	margin-left: 25px;
+	margin-top: -301px;
+}
+
+.writing2
+{
+	position: relative;
+	margin-left: 25px;
+	margin-top: -514px;
+}
+
+.writing3
+{
+	position: relative;
+	margin-left: 25px;
+	margin-top: -143px;
+}
+
+.writing4
+{
+	position: relative;
+	margin-left: 25px;
+	margin-top: -480px;
+}
+
+.writing5
+{
+	position: relative;
+	margin-left: 25px;
+	margin-top: -190px;
+}
+
+.writing6
+{
+	position: relative;
+	margin-left: 25px;
+	margin-top: -599px;
+}
+
+.writing7
+{
+	position: relative;
+	margin-left: 25px;
+	margin-top: -363px;
+}
+
+.writing8
+{
+	position: relative;
+	margin-left: 25px;
+	margin-top: -367px;
+}
+/* contact page */
+
+#contactarea
+{
+	position:relative;
+	margin-top:-20px;
+	margin-bottom: 10px;
+}
+/* footer */
+
+.footer
+{
+	position: relative;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-radius: 7px;
+	background: #FAFAFA;
+	height: 30px;
+	box-shadow: 2px 2px 5px #888;
+	text-align: center;
+}
+
+.footertext
+{
+	position:relative;
+	top: 7px;
+	font-size: 11px;
+	font-weight: 700;
+	font-family: 'Droid Sans', sans-serif;
+}
